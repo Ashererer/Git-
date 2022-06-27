@@ -1,1 +1,4 @@
-aab
+git init   初始化一个仓库
+git add <file>   告诉git，把文件添加到仓库（仓库缓冲区），如git add 1.txt
+ git status   仓库当前状态
+ git commit -m <message>  告诉git，把文件提交到仓库，如git commit -m "add 1.txt"
